@@ -22,7 +22,7 @@ This project used Python 3.8 and iPython in Jupyter Lab.  Windows 10 is the oper
 This project requires the latest version of Anaconda and a PyViz Environment
 
 ## Example
-![](./hwexample.JPG)
+![](Example_Images/hwexample.JPG)
 
 ## Usage
 
